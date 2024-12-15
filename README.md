@@ -8,7 +8,7 @@
  <br />
  <center style="border: 3px solid black; padding: 20px;"><img src="DM4-bis/1.jpg"  /></center>
  <p id="para3"> On obtint ainsi, la solution suivante</p>
-
+ <center ><img src="DM4-bis/2.jpg"  /></center>
  <p id="para3">A l'aide d'un script python on trace la courbe suivante, cette courbe corresponde aux ossilateurs harmoniques</p>
  <center ><img src="DM4-bis/Q1.jpg"  /></center>
  <br>
