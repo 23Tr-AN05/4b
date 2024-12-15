@@ -6,8 +6,7 @@
  <body>
  <p id="h1" style="border: 3px solid red; padding: 20px;">第四作业的物理学</p>
  <br />
- <p id="para3" >x¨ + ω20x = ω20ℓ0 avec x(0) = x0 et x˙(0) = v0.</p>
-
+ <center><img scr="DM4-bis/1.jpg"  />
 
 
   <form>
