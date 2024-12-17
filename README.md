@@ -26,7 +26,7 @@
  <center ><img src="DM4-bis/6.jpg"  /></center>
  <p id="para3">A l'aide d'un script python on trace la courbe suivante, cette courbe corresponde aux ossilateurs amortie en régime pseudo-périodique.</p>
  <br>
- <center ><img src="DM4-bis/Figure_.png"  /></center>
+ <center ><img src="DM4-bis/Figure_3.png"  /></center>
  
 
 
