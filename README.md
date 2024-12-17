@@ -13,6 +13,20 @@
  <center ><img src="DM4-bis/Q1.jpg"  /></center>
  <br>
  <center ><img src="DM4-bis/Figure_1.png"  /></center>
+ <hr>
+  <center style="border: 3px solid black; padding: 20px;"><img src="DM4-bis/3.jpg"  /></center>
+ <p id="para3"> On obtint ainsi, la solution suivante</p>
+ <center ><img src="DM4-bis/4.jpg"  /></center>
+ <p id="para3">A l'aide d'un script python on trace la courbe suivante, cette courbe corresponde aux ossilateurs amortie en régime apériodique.</p>
+ <br>
+ <center ><img src="DM4-bis/Figure_2.png"  /></center>
+  <hr>
+  <center style="border: 3px solid black; padding: 20px;"><img src="DM4-bis/5.jpg"  /></center>
+ <p id="para3"> On obtint ainsi, la solution suivante</p>
+ <center ><img src="DM4-bis/6.jpg"  /></center>
+ <p id="para3">A l'aide d'un script python on trace la courbe suivante, cette courbe corresponde aux ossilateurs amortie en régime pseudo-périodique.</p>
+ <br>
+ <center ><img src="DM4-bis/Figure_.png"  /></center>
  
 
 
